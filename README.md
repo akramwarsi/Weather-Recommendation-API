@@ -82,3 +82,8 @@ DB_PORT=5432
 PROJECT_NAME="<Project Name>"
 REPLICATE_API_TOKEN="<please use Replicate Token>"
 ```
+
+![image](https://github.com/akramwarsi/Weather-Recommendation-API/assets/50487227/a83c192d-71be-4072-af30-4e18a51862ae)
+![image](https://github.com/akramwarsi/Weather-Recommendation-API/assets/50487227/3fefb361-1ae6-49fa-b64f-8f6a9c31ee88)
+![image](https://github.com/akramwarsi/Weather-Recommendation-API/assets/50487227/11d928ae-d4f8-41c1-a959-b634717eaf60)
+
