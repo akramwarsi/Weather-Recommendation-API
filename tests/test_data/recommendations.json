@@ -1,0 +1,107 @@
+[
+  {
+      "feel": "hot",
+      "min_temperature": 80,
+      "max_temperature": 100,
+      "outfit": "Wear light-colored, loose-fitting clothing made of breathable fabrics like cotton or linen. Avoid dark colors and synthetic fabrics.",
+      "activity": "Enjoy a refreshing swim or spend time indoors in cool environments."
+  },
+  {
+      "feel": "hot",
+      "min_temperature": 100,
+      "max_temperature": 120,
+      "outfit": "Extreme heat! Stay indoors, use air conditioning, and stay hydrated.",
+      "activity": "Avoid outdoor activities. Stay in shaded areas and drink plenty of water."
+  },
+  {
+      "feel": "cold",
+      "min_temperature": 20,
+      "max_temperature": 50,
+      "outfit": "Wear a warm coat, gloves, hat, and scarf to stay warm. Layer your clothing to trap heat close to your body.",
+      "activity": "Enjoy winter sports like skiing or snowboarding, but dress warmly."
+  },
+  {
+      "feel": "cold",
+      "min_temperature": 0,
+      "max_temperature": 20,
+      "outfit": "Extreme cold! Dress in layers, wear a heavy coat, and protect exposed skin from frostbite.",
+      "activity": "Limit outdoor activities. If necessary, dress in layers and cover exposed skin."
+  },
+  {
+      "feel": "smoke",
+      "min_temperature": 60,
+      "max_temperature": 80,
+      "outfit": "Wear a mask to protect your lungs from smoke particles. Wear long-sleeved shirts and pants to cover your skin.",
+      "activity": "Avoid strenuous outdoor activities. Use masks if you need to go outside."
+  },
+  {
+      "feel": "warm",
+      "min_temperature": 60,
+      "max_temperature": 80,
+      "outfit": "Wear light-colored, loose-fitting clothing made of breathable fabrics like cotton or linen. Avoid dark colors and synthetic fabrics.",
+      "activity": "Enjoy outdoor activities like hiking or picnics in the pleasant weather."
+  },
+  {
+      "feel": "rainy",
+      "min_temperature": 40,
+      "max_temperature": 70,
+      "outfit": "Wear a waterproof jacket or raincoat to stay dry. Wear waterproof shoes or boots to keep your feet dry.",
+      "activity": "Embrace the rain with activities like splashing in puddles or enjoying a cozy day indoors."
+  },
+  {
+      "feel": "rain",
+      "min_temperature": 40,
+      "max_temperature": 70,
+      "outfit": "Wear a waterproof jacket or raincoat to stay dry. Wear waterproof shoes or boots to keep your feet dry.",
+      "activity": "Embrace the rain with activities like splashing in puddles or enjoying a cozy day indoors."
+  },
+  {
+      "feel": "light rain",
+      "min_temperature": 40,
+      "max_temperature": 80,
+      "outfit": "Wear a waterproof jacket or raincoat to stay dry. Wear waterproof shoes or boots to keep your feet dry.",
+      "activity": "Embrace the rain with activities like splashing in puddles or enjoying a cozy day indoors."
+  },
+  {
+      "feel": "snowy",
+      "min_temperature": 10,
+      "max_temperature": 30,
+      "outfit": "Wear a heavy coat, gloves, hat, and scarf to stay warm. Wear waterproof boots to keep your feet dry in the snow.",
+      "activity": "Have fun in the snow with activities like building snowmen or skiing."
+  },
+  {
+      "feel": "snow",
+      "min_temperature": 10,
+      "max_temperature": 30,
+      "outfit": "Wear a heavy coat, gloves, hat, and scarf to stay warm. Wear waterproof boots to keep your feet dry in the snow.",
+      "activity": "Have fun in the snow with activities like building snowmen or skiing."
+  },
+  {
+      "feel": "cloudy",
+      "min_temperature": 50,
+      "max_temperature": 70,
+      "outfit": "Wear a light jacket or sweater to stay comfortable. Layer your clothing to adjust to changing temperatures.",
+      "activity": "Enjoy moderate outdoor activities like hiking or cycling in the cool weather."
+  },
+  {
+    "feel": "very cloudy",
+    "min_temperature": 50,
+    "max_temperature": 80,
+    "outfit": "Wear a light jacket or sweater to stay comfortable. Layer your clothing to adjust to changing temperatures.",
+    "activity": "Enjoy moderate outdoor activities like hiking or cycling in the cool weather."
+},
+{
+    "feel": "partly cloudy",
+    "min_temperature": 50,
+    "max_temperature": 80,
+    "outfit": "Wear a light waterproof jacket. Layer your clothing to prepare for rain.",
+    "activity": "Enjoy moderate outdoor activities like hiking or cycling in the cloudy weather."
+},
+{
+      "feel": "sunny",
+      "min_temperature": 70,
+      "max_temperature": 100,
+      "outfit": "Wear light-colored, loose-fitting clothing made of breathable fabrics like cotton or linen. Wear a hat and sunglasses to protect your skin and eyes from the sun.",
+      "activity": "Safely enjoy outdoor activities with sun protection, such as sunscreen and sunglasses."
+  }
+]
