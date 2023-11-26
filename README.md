@@ -1,6 +1,6 @@
 # weather-api-rak-bank
 
-## description
+## Description
 FastAPI project for Weather outfit and activity recommendation along with Generative AI synopsis.
 
 ## Documentation to use endpoints
