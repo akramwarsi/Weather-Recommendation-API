@@ -69,6 +69,8 @@ DB_USER=rakbank
 DB_PASSWORD=rakbank123
 DB_HOST=localhost
 DB_PORT=3306
+PROJECT_NAME="<Project Name>"
+REPLICATE_API_TOKEN="<please use Replicate Token>"
 
 # postgres case
 ENV=dev
@@ -77,4 +79,6 @@ DB_USER=rakbank
 DB_PASSWORD=rakbank123
 DB_HOST=localhost
 DB_PORT=5432
+PROJECT_NAME="<Project Name>"
+REPLICATE_API_TOKEN="<please use Replicate Token>"
 ```
