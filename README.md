@@ -8,11 +8,11 @@ FastAPI project for Weather outfit and activity recommendation along with Genera
 ![openapi-docs](./api/openapi.json)
 
 ##  🎉 Main Features:
-● FastAPI Implementation: Utilizes FastAPI to build RESTful endpoints, adhering to REST architecture norms.
-● Weather Data Fetching: Integrates real-time weather data using a third-party WeatherAPI.
-● Generative Language Model Integration: Uses "meta/llama-2" model but have another option to use own LLM model to formulate a comical weather synopsis.
-● Recommendations System: Provide recommendations for activities and outfits based on the weather data analysis.
-● CRUD Operations: Offers CRUD endpoints for managing outfir & activity recommendation configurations.
+1. FastAPI Implementation: Utilizes FastAPI to build RESTful endpoints, adhering to REST architecture norms.
+2. Weather Data Fetching: Integrates real-time weather data using a third-party WeatherAPI.
+3. Generative Language Model Integration: Uses "meta/llama-2" model but have another option to use own LLM model to formulate a comical weather synopsis.
+4. Recommendations System: Provide recommendations for activities and outfits based on the weather data analysis.
+5. CRUD Operations: Offers CRUD endpoints for managing outfir & activity recommendation configurations.
 
 ## concept
 1. Minimal functionality.
