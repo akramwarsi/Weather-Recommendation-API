@@ -1,4 +1,4 @@
-# weather-api-rak-bank
+# weather-api
 
 ## Description
 FastAPI project for Weather outfit and activity recommendation along with Generative AI synopsis.
@@ -65,8 +65,8 @@ FastAPI project for Weather outfit and activity recommendation along with Genera
 # mysql case
 ENV=dev
 DB=mysql
-DB_USER=rakbank
-DB_PASSWORD=rakbank123
+DB_USER=<your db user>
+DB_PASSWORD=<your db password>
 DB_HOST=localhost
 DB_PORT=3306
 PROJECT_NAME="<Project Name>"
@@ -75,8 +75,8 @@ REPLICATE_API_TOKEN="<please use Replicate Token>"
 # postgres case
 ENV=dev
 DB=postgresql
-DB_USER=rakbank
-DB_PASSWORD=rakbank123
+DB_USER=<your db user>
+DB_PASSWORD=<your db password>
 DB_HOST=localhost
 DB_PORT=5432
 PROJECT_NAME="<Project Name>"
